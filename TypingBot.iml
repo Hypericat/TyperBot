@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Stuff/Coding/Java Dependencies/jsoup-1.16.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Stuff/Coding/Java Dependencies/Selenium" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Stuff/Coding/Java Dependencies/Selenium" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Stuff/Coding/Java Dependencies/Selenium" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Stuff/Coding/Java Dependencies/Selenium" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="failsafe-3.3.2" level="project" />
+  </component>
+</module>
